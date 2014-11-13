@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{RahimPkg-package}\n\\alias{RahimPkg-package}\n\\alias{RahimPkg}\n\\docType{package}\n\\title{\nWhat the package does (short line)\n~~ package title ~~\n}\n\\description{\nMore about what it does (maybe more than one line)\n~~ A concise (1-5 lines) description of the package ~~\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab RahimPkg\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2014-11-13\\cr\nLicense: \\tab What license is it under?\\cr\n}\n~~ An overview of how to use the package, including the most important ~~\n~~ functions ~~\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\n~~ Literature or other references for background information ~~\n}\n~~ Optionally other standard keywords, one per line, from file ~~\n~~ KEYWORDS in the R documentation directory ~~\n\\keyword{ package }\n\\seealso{\n~~ Optional links to other man pages, e.g. ~~\n~~ \\code{\\link[<pkg>:<pkg>-package]{<pkg>}} ~~\n}\n\\examples{\n~~ simple examples of the most important functions ~~\n}\n",
+    "created" : 1415914787474.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1923230023",
+    "id" : "D5DF38E7",
+    "lastKnownWriteTime" : 1415914160,
+    "path" : "~/RahimPkg/man/RahimPkg-package.Rd",
+    "project_path" : "man/RahimPkg-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

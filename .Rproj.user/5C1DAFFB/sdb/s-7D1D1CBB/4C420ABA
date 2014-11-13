@@ -1,0 +1,16 @@
+{
+    "contents" : "\n#' Calculates the cube of a range\n#' \\code{autoplot} \n#' \n#' @param m a positive integer \n#' @return the cube of the given parameter \n#' @export\n#' @export\nsumCube <- function(m){\n  sum(seq(1,m) * seq(1,m) * seq(1,m) )\n}",
+    "created" : 1415914201459.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3887001424",
+    "id" : "4C420ABA",
+    "lastKnownWriteTime" : 1415915469,
+    "path" : "~/RahimPkg/R/RahimPkg.R",
+    "project_path" : "R/RahimPkg.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
